@@ -1,0 +1,15 @@
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\bin\Debug\net8.0\tl1-tp7-2024-franleccese11.exe
+C:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\bin\Debug\net8.0\tl1-tp7-2024-franleccese11.deps.json
+C:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\bin\Debug\net8.0\tl1-tp7-2024-franleccese11.runtimeconfig.json
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\bin\Debug\net8.0\tl1-tp7-2024-franleccese11.dll
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\bin\Debug\net8.0\tl1-tp7-2024-franleccese11.pdb
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.GeneratedMSBuildEditorConfig.editorconfig
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.AssemblyInfoInputs.cache
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.AssemblyInfo.cs
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.csproj.CoreCompileInputs.cache
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.sourcelink.json
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.dll
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\refint\tl1-tp7-2024-franleccese11.dll
+c:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.pdb
+C:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\tl1-tp7-2024-franleccese11.genruntimeconfig.cache
+C:\repositorios\taller1_2024\tl1-tp7-2024-franleccese11\obj\Debug\net8.0\ref\tl1-tp7-2024-franleccese11.dll
